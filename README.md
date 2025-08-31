@@ -23,7 +23,7 @@ MoodPlay is a **SwiftUI iOS app** that connects with the **Spotify API** to reco
 <br>
 
 ## 📹 Demo Video  
-(Embed your simulator screen recording here once uploaded to GitHub or YouTube)  
+  
 
 [🎥 Watch Demo](https://your-demo-link.com)  
 
